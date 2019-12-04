@@ -1,7 +1,7 @@
 /*.class or #id*/
 /*CTRL + D select all*/
 
-/*.chapitreTitle | .bigPart | .sousPart | .importantWord | .summary | .cours | .vocabDefinition*/
+/*.chapitreTitle | .bigPart | .sousPart | .soussousPart | .importantWord | .summary | .cours | .vocabDefinition*/
 body{
 	background-color: black;
 }
