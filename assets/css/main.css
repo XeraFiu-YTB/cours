@@ -2,8 +2,26 @@
 /*CTRL + D select all*/
 
 /*.chapitreTitle | .bigPart | .sousPart | .soussousPart | .importantWord | .summary | .cours | .vocabDefinition*/
+.chapitreTitle
+{
+	color: #ff4411; 
+	font-size: 48px; 
+	font-family: 'Signika', sans-serif; 
+	padding-bottom: 10px;
+}
+
+.cours
+{
+	border-left: 4px solid white;
+	font-family: 'Inder', sans-serif; 
+	line-height: 28px; 
+	margin-bottom: 15px; 
+	color: #666;
+}
+
+
 body{
-	background-color: black;
+	background-color: rgb(47, 47, 74);
 }
 header
 {
