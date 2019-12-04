@@ -16,6 +16,9 @@
 	border: 2px solid white;
 	border-radius: 20px;
 	border-shadow: 0px 0px 10px white;
+	padding: 10px;
+	width:20%;
+	text-align: center;
 }
 .sousPart
 {
@@ -24,6 +27,9 @@
 	border: 2px solid white;
 	border-radius: 10px;
 	border-shadow: 0px 0px 5px white;
+	padding: 10px;
+	width:20%;
+	text-align: center;
 }
 .cours
 {
