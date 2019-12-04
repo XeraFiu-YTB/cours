@@ -32,6 +32,17 @@
 	text-align: center;
 	margin-left:20px;
 }
+.soussousPart
+{
+	background-color: rgb(116, 83, 145);
+	color: white;
+	border: 2px solid white;
+	border-radius: 10px;
+	border-shadow: 0px 0px 5px white;
+	padding: 10px;
+	width:20%;
+	text-align: center;
+}
 .cours
 {
 	border-left: 4px solid white;
